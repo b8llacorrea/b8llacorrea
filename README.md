@@ -23,6 +23,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu pude aprender 
 ### Estatísticas do GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?b8llacorrea=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b8llacorrea&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b8llacorrea&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Entre em Contato
 
