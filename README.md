@@ -5,7 +5,7 @@ Sou uma **desenvolvedora** em andamento, atualmente cursando ADS no IFSC. Tenho 
 
 ### Ferramentas que já utilizei
 
-Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho e tenho experiência:
+Aqui estão algumas das tecnologias e ferramentas com as quais eu pude aprender e tenho experiência:
 
 **Linguagens:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
