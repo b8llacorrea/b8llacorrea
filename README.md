@@ -1,4 +1,4 @@
-# Olá! Sou a Isabella. 👋
+# Oie! Eu sou a Isa 💜
 
 Sou uma **desenvolvedora** em andamento, atualmente cursando ADS no IFSC. Tenho experiência em construir aplicações web modernas, focando em usabilidade e na melhor experiência para o usuário final.
 ---
