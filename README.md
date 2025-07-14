@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" style="max-height: 200px; object-fit: cover;" />
+<img src="https://media.githubusercontent.com/media/ayushkul/avatar/main/banner.png" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 8px;" />
 
-<h1 align="center">Oi! Eu sou a Isa 💜</h1>
+<h1 align="center">Oie! Eu sou a Isa 💜</h1>
 
 <p align="center">
 > Desenvolvedora em formação | Estudante de Análise e Desenvolvimento de Sistemas (IFSC)  
