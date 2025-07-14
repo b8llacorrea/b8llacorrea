@@ -1,11 +1,8 @@
+# Oie! Eu sou a Isa 💜
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHYyNnltN3l4N3U3MDBqaHl3ZTgzMmk2aTYwaGV4NGhhczg5YTdvbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUySTJ8Y5HsuM4fvSE/giphy.gif" width="300px" />
 </p>
-
-<h3 align="center">Erro 404: Perfil não encontrado... 🤖</h3>
-
-
-# Oie! Eu sou a Isa 💜
 
 > Desenvolvedora em formação | Estudante de Análise e Desenvolvimento de Sistemas (IFSC)  
 > Atualmente surtando com projetos em POO e pebsa 
