@@ -1,12 +1,16 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5maGVzYTVpZDBjbGU4amo5OWZ1OG9pYXZtb3E0Z251ZXpyemNzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="100%" style="max-height: 200px; object-fit: cover; border-radius: 8px;" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5maGVzYTVpZDBjbGU4amo5OWZ1OG9pYXZtb3E0Z251ZXpyemNzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="100%" style="max-height: 200px; object-fit: cover;" />
 
 <h1 align="center">Oie! Eu sou a Isa 💜</h1>
 
 <p align="center">
-> Desenvolvedora em formação | Estudante de Análise e Desenvolvimento de Sistemas (IFSC)  
-> Atualmente surtando com projetos em POO e pebsa 
-> Foco em entregar a melhor experiência para o usuário final
+  Desenvolvedora em formação | Estudante de ADS no IFSC  
+  <br>
+  Apaixonada por web, usabilidade e boas experiências de usuário  
+  <br>
+  Explorando tecnologias modernas e sempre em evolução 🚀
 </p>
+
+<hr>
 
 --
 
