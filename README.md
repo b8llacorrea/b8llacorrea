@@ -1,7 +1,7 @@
 # Oie! Eu sou a Isa 💜
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHYyNnltN3l4N3U3MDBqaHl3ZTgzMmk2aTYwaGV4NGhhczg5YTdvbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUySTJ8Y5HsuM4fvSE/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF0d2d3Z256bHFrM3p5cjJuYnp3dXZub3MweW4yNjJkcHE2d2QxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sULKEgDMX8LcI/giphy.gif)f" width="300px" />
 </p>
 
 > Desenvolvedora em formação | Estudante de Análise e Desenvolvimento de Sistemas (IFSC)  
