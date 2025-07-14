@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTI2NXRkdnBzMzBpYWt5cjY5cXhsM3d2ZDhnbzRyamw4amplamQ5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JsE9qckiYyVClQ5bY2/giphy.gif)" width="300px" />
+  <img src="https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif" width="300px" />
 </p>
 
 <h3 align="center">Erro 404: Perfil não encontrado... 🤖</h3>
