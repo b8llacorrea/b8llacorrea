@@ -1,7 +1,17 @@
+<p align="center">
+  <img src="[https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTI2NXRkdnBzMzBpYWt5cjY5cXhsM3d2ZDhnbzRyamw4amplamQ5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JsE9qckiYyVClQ5bY2/giphy.gif)" width="300px" />
+</p>
+
+<h3 align="center">Erro 404: Perfil não encontrado... 🤖</h3>
+
+
 # Oie! Eu sou a Isa 💜
 
-Sou uma **desenvolvedora** em andamento, atualmente cursando ADS no IFSC. Tenho experiência em construir aplicações web modernas, focando em usabilidade e na melhor experiência para o usuário final.
----
+> Desenvolvedora em formação | Estudante de Análise e Desenvolvimento de Sistemas (IFSC)  
+> Atualmente surtando com projetos em POO e pebsa 
+> Foco em entregar a melhor experiência para o usuário final
+
+--
 
 ### Ferramentas que já utilizei
 
