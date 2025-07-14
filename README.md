@@ -16,8 +16,6 @@
 
 <hr>
 
---
-
 ### Ferramentas que já utilizei
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu pude aprender e tenho experiência:
