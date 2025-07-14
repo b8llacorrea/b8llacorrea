@@ -1,6 +1,8 @@
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" 
-     width="100%" 
-     style="max-height: 200px; object-fit: cover; border-radius: 8px;" />
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5maGVzYTVpZDBjbGU4amo5OWZ1OG9pYXZtb3E0Z251ZXpyemNzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" 
+       width="800px" 
+       style="height: 120px; object-fit: cover; border-radius: 8px;" />
+</p>
 
 <h1 align="center">Oie! Eu sou a Isa 💜</h1>
 
@@ -9,7 +11,7 @@
   <br>
   Apaixonada por web, usabilidade e boas experiências de usuário  
   <br>
-  Explorando tecnologias modernas e sempre em evolução 🚀
+  Explorando tecnologias modernas e buscando melhorar
 </p>
 
 <hr>
