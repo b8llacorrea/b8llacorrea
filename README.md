@@ -20,3 +20,14 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu pude aprender 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+### Estatísticas do GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b811acorrea&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b811acorrea&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### entre em Contato
+
+Sinta-se à vontade para entrar em contato! Estou aberta a novas oportunidades e colaborações.
+
+* **LinkedIn:** [linkedin.com/in/sua-isabella](https://www.linkedin.com/in/isabella-correa-silva/)
+* **Email:** [seu.email@example.com](isabellacorreaveiga@gmail.com)
