@@ -1,12 +1,12 @@
-# Oie! Eu sou a Isa 💜
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" style="max-height: 200px; object-fit: cover;" />
+
+<h1 align="center">Oi! Eu sou a Isa 💜</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF0d2d3Z256bHFrM3p5cjJuYnp3dXZub3MweW4yNjJkcHE2d2QxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sULKEgDMX8LcI/giphy.gif" width="300px" />
-</p>
-
 > Desenvolvedora em formação | Estudante de Análise e Desenvolvimento de Sistemas (IFSC)  
 > Atualmente surtando com projetos em POO e pebsa 
 > Foco em entregar a melhor experiência para o usuário final
+</p>
 
 --
 
